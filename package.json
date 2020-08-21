@@ -1,5 +1,5 @@
 {
-  "name": "connect-rtc-js",
+  "name": "@rackspace-cc/connect-rtc",
   "version": "1.1.4",
   "description": "Amazon Connect softphone library",
   "license": "Apache-2.0",
@@ -54,5 +54,16 @@
     "sinon": "^2.1.0",
     "tape": "^4.6.3",
     "travis-multirunner": "^3.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racker/connect-rtc-js.git"
+  },
+  "author": "Amazon Web Services",
+  "bugs": {
+    "url": "https://github.com/racker/connect-rtc-js/issues"
   }
 }
